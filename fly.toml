@@ -1,0 +1,17 @@
+app = '65dza165d16za6'
+primary_region = 'cdg'
+
+[processes]
+app = "npm start"
+
+[vm]
+memory = '4gb'
+cpu_kind = 'shared'
+cpus = 2
+memory_mb = 4096
+
+[deploy]
+release_command = ""
+strategy = "immediate"
+
+# NO HTTP SERVICE SECTION!
