@@ -1,0 +1,23 @@
+{
+  "name": "minecraft-account-manager",
+  "version": "4.0.0",
+  "description": "Advanced Minecraft Bedrock account manager with persistent bots",
+  "main": "account-manager.js",
+  "scripts": {
+    "start": "node account-manager.js",
+    "bot": "node account-manager.js",
+    "dev": "node --inspect account-manager.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.52.0"
+  },
+  "keywords": [
+    "minecraft",
+    "bedrock",
+    "bot",
+    "multi-account",
+    "manager"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

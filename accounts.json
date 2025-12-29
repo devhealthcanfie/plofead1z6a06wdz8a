@@ -1,0 +1,62 @@
+{
+  "BigOldFerb": {
+    "type": "microsoft",
+    "profileName": "BigOldFerb",
+    "username": "BigOldFerb",
+    "xuid": "2535460486233241",
+    "profilesFolder": "./profiles/BigOldFerb",
+    "createdAt": "2025-12-29T23:04:44.144Z",
+    "lastAuth": "2025-12-29T23:05:20.810Z",
+    "lastUsed": "2025-12-29T23:31:09.359Z",
+    "authenticated": true,
+    "status": "authenticated"
+  },
+  "Smaile9546": {
+    "type": "microsoft",
+    "profileName": "Smaile9546",
+    "username": "Smaile9546",
+    "xuid": "2535421434068802",
+    "profilesFolder": "./profiles/Smaile9546",
+    "createdAt": "2025-12-29T23:06:35.964Z",
+    "lastAuth": "2025-12-29T23:07:14.627Z",
+    "lastUsed": "2025-12-29T23:31:22.673Z",
+    "authenticated": true,
+    "status": "authenticated"
+  },
+  "MJ2178": {
+    "type": "microsoft",
+    "profileName": "MJ2178",
+    "username": "MJ2178",
+    "xuid": "2535466289718778",
+    "profilesFolder": "./profiles/MJ2178",
+    "createdAt": "2025-12-29T23:08:49.712Z",
+    "lastAuth": "2025-12-29T23:09:24.007Z",
+    "lastUsed": "2025-12-29T23:31:36.046Z",
+    "authenticated": true,
+    "status": "authenticated"
+  },
+  "Arroz6530": {
+    "type": "microsoft",
+    "profileName": "Arroz6530",
+    "username": "Arroz6530",
+    "xuid": "2535416675791599",
+    "profilesFolder": "./profiles/Arroz6530",
+    "createdAt": "2025-12-29T23:10:15.740Z",
+    "lastAuth": "2025-12-29T23:10:53.305Z",
+    "lastUsed": "2025-12-29T23:31:50.147Z",
+    "authenticated": true,
+    "status": "authenticated"
+  },
+  "VAN3LL10": {
+    "type": "microsoft",
+    "profileName": "VAN3LL10",
+    "username": "VAN3LL10",
+    "xuid": "2535468219418861",
+    "profilesFolder": "./profiles/VAN3LL10",
+    "createdAt": "2025-12-29T23:13:16.625Z",
+    "lastAuth": "2025-12-29T23:13:51.251Z",
+    "lastUsed": "2025-12-29T23:32:05.674Z",
+    "authenticated": true,
+    "status": "authenticated"
+  }
+}
