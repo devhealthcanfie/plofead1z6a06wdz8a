@@ -1,6 +1,6 @@
 // server.js - No HTTP server, just bot
 console.log('🎮 Starting Minecraft AFK Bot...');
-require('./bot.js');
+require('./auto-rotation.js');
 
 // Keep process alive
 process.on('uncaughtException', (error) => {
