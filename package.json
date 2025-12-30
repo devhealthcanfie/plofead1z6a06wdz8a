@@ -2,11 +2,11 @@
   "name": "minecraft-account-manager",
   "version": "4.0.0",
   "description": "Advanced Minecraft Bedrock account manager with persistent bots",
-  "main": "account-manager.js",
+  "main": "auto-rotation.js",
   "scripts": {
-    "start": "node account-manager.js",
-    "bot": "node account-manager.js",
-    "dev": "node --inspect account-manager.js"
+    "start": "node auto-rotation.js",
+    "bot": "node auto-rotation.js",
+    "dev": "node --inspect auto-rotation.js"
   },
   "dependencies": {
     "bedrock-protocol": "^3.52.0"
@@ -18,6 +18,7 @@
     "multi-account",
     "manager"
   ],
-  "author": "Your Name",
+  "author": "Karim",
   "license": "MIT"
+
 }
